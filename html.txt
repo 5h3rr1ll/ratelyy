@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="desktop ie8 no-js" lang="de-DE"><![endif]-->
+<!--[if IE 9 ]><html class="desktop ie9 no-js" lang="de-DE"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="de-DE"><!--<![endif]-->
+   
+	<head>
+		<meta charset="UTF-8" />
+		<title>Sherrill | Anthony J. Sherrill Jr.</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="format-detection" content="telephone=no" />
+
+		<!--[if lt IE 9]>
+		<script type="text/javascript">/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark meter nav output progress section summary subline time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+		<![endif]-->
+		<script type="text/javascript">if(Function('/*@cc_on return document.documentMode===10@*/')()){document.documentElement.className+=' ie10';}</script>
+		<script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+		
+		<link rel="pingback" href="http://sherrill.de/xmlrpc.php" />
+
+		<!-- favicon -->
+		<link rel="shortcut icon" href="http://sherrill.de/wp-content/uploads/2016/07/s_fav_con.png" />
+
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700&amp;subset=latin,latin-ext">
+		<!-- wp_head() -->
+		<link rel='dns-prefetch' href='//sherrill.de' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sherrill &raquo; Feed" href="http://sherrill.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sherrill &raquo; Kommentar-Feed" href="http://sherrill.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/sherrill.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pe_theme_visia-loader-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/loader.css?ver=1467832407' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-reset-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/reset.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-grid-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/grid.css?ver=1467832406' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-icons-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/icons.css?ver=1467832406' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-style-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/style.css?ver=1467832409' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-shortcodes-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/shortcodes.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-color-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/ruby-red.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-animations-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/animations.css?ver=1467832402' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-ie-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/ie.css?ver=1467832407' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_flare_common-css'  href='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe.flare/themes/common.css?ver=1467832602' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_flare-css'  href='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe.flare/themes/default/skin.css?ver=1467832611' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-custom-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/custom.css?ver=1467832405' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_init-css'  href='http://sherrill.de/wp-content/themes/visia-3/style.css?ver=1467833006' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://sherrill.de/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/selectivizr-min.js?ver=1467832645'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/json2.min.js?ver=2015-05-03'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://sherrill.de/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sherrill.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sherrill.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel="canonical" href="http://sherrill.de/" />
+<link rel='shortlink' href='http://wp.me/P7HihB-E' />
+<link rel="alternate" type="application/json+oembed" href="http://sherrill.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsherrill.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://sherrill.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsherrill.de%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Sherrill" />
+<meta property="og:description" content="Anthony J. Sherrill Jr." />
+<meta property="og:url" content="http://sherrill.de/" />
+<meta property="og:site_name" content="Sherrill" />
+<meta property="og:image" content="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=512%2C512" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="de_DE" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=270%2C270" />
+<style type="text/css">body,.form-field span input,.form-field span textarea,.form-click input{font-family:'Open Sans';}</style><style type="text/css" id="pe-theme-custom-colors">a{color:#4169e1;}.feature:hover{color:#4169e1;}a:visited{color:#4169e1;}.desktop.navigation .nav-content a:hover{color:#4169e1;}.desktop.navigation .nav-content a.active{color:#4169e1;}.post-title a:hover{color:#4169e1;}.cat-item a:hover{color:#4169e1;}.widget-archive a:hover{color:#4169e1;}.filter.active, .filter:hover{color:#4169e1;}.recentcomments a:hover{color:#4169e1;}.widget-recent-entries a:hover{color:#4169e1;}.comment-meta a:hover{color:#4169e1;}.required{color:#4169e1;}.feature:hover .feature-icon{color:#4169e1;}.sticky .post-title a{color:#4169e1;}.gallery-next .bx-next:hover{background-color:#4169e1;}.gallery-prev .bx-prev:hover{background-color:#4169e1;}.parallax.colored{background-color:#4169e1;}.list-dot{background-color:#4169e1;}.projectlist a:hover .projectinfo{background-color:#4169e1;}a.button{border-color:#4169e1;}.tagcloud a{border-color:#4169e1;}.tabs ul li.active a{border-top-color:#4169e1;}a:hover{color:#9aace0;}.sticky .post-title a:hover{color:#9aace0;}a.button:hover{border-color:#9aace0;}.tagcloud a:hover{border-color:#9aace0;}</style>	</head>
+
+	<body class="home page page-id-40 page-parent page-template page-template-page_home page-template-page_home-php">
+
+		
+<!-- Begin Navigation -->
+<nav class="clearfix">
+
+	<!-- Logo -->
+    <div class="logo">
+        <a id="top" href="http://sherrill.de" title="Sherrill"><img src="http://sherrill.de/wp-content/uploads/2016/07/S_Banner.png" alt=""></a>
+            </div>
+
+	
+	
+
+	<!-- Mobile Nav Button -->
+	<button type="button" class="nav-button" data-toggle="collapse" data-target=".nav-content">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <!-- Navigation Links -->
+    <div class="navigation">
+		<div class="nav-content">
+			<ul class="nav"><li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://sherrill.de/#ich-bin-die-summe-meines-tuns">Über Sherrill</a></li>
+</ul>		</div>
+	</div>
+
+</nav>
+<!-- End Navigation -->
+		
+					
+
+
+<div class="hidden_overlay" data-src="http://sherrill.de/wp-content/themes/visia-3/images/slider/overlays/03.png"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0183-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0160_1.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0180-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0146_1-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0133_1.jpg"></div>
+
+<section id="home" class="home-first-section hero clearfix">
+
+	<!-- Content -->
+	<div class="dark content container">
+
+		<!-- Headings -->
+		<div class="ticker">
+
+									<h1>Analytisch.</h1>
+						<h1>Problemlöser.</h1>
+						<h1>Wettbewerbsorientiert.</h1>
+						<h1>Fair.</h1>
+							 	</div>
+
+
+
+	 	<!-- Buttons -->
+	 			<ul class="call-to-action">
+						<li>
+								<a class="button" href="#ich-bin-die-summe-meines-tuns">
+					Learn more				</a>
+			</li>
+								</ul>
+		
+		<!-- Slider Controls -->
+		<ul class="slider-controls">
+			<li><a id="vegas-next" href="#">Next</a></li>
+			<li><a id="vegas-prev" href="#">Prev</a></li>
+		</ul>
+
+	</div>
+
+</section>
+<!-- End Hero -->
+
+		
+<div class="slider-cover"><!-- Begin Team -->
+<section class="content container" id="ich-bin-die-summe-meines-tuns">
+
+		<div class="title grid-full">
+			<h2>Ich bin die Summe meines Tuns</h2>
+			<span class="border"></span>
+
+			<div class="sub-heading">			
+							</div>
+		</div>
+		<div class="clearfix"></div>
+
+		
+		
+						<!-- Icons -->
+				<ul class="team-list clearfix">
+				<li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Apple Trainer, für Privatpersonen</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Ich berate und betreue Sie rund um alle Apple Produkte. Zum iMac, zum MacBook, zum iPad oder zum iPhone. Sei es die erste Inbetriebnahme, ein Umstieg von z.B. Windows zu Mac OS oder ein Neukauf. Ich stehe Ihnen kompetent zur Seite und zwar dort wo Sie mich benötigen: Sei es zu Hause, im Café oder in Ihrem Unternehmen. <a href="http://www.appletrainer.sherrill.de">Hier klicken für mehr Infos.</a></p>
+
+						
+					</li><li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Apple Consultant, Selbständige &#038; Unternehmen</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Planen Sie Apple Produkte in Ihrem Unternehmen zu nutzen, oder nutzen Sie vielleicht bereits schon welche? Hätten Sie gerne iMac, MacBooks, iPhone oder iPad perfekt in Ihrem Unternehmen und in Ihrem Tagesgeschäft integriert? Würden Sie gerne die Zuverlässigkeit und das schicke Design von Apple in Ihrem Unternehmen haben, sind sich jedoch nicht sicher was den Umstieg betrifft? <a href="http://www.appletrainer.sherrill.de">Klicken Sie hier für weitere Informationen</a>.</p>
+
+						
+					</li><li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Management, für Künstler</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Die Managementtätigkeit bezieht sich derzeit ausschließlich auf das managen der Künstlerin &#8222;Meral Al-Mer&#8220;. Für weitere Informationen siehe: <a href="http://www.MeralAlMer.com">www.MeralAlMer.com</a></p>
+
+						
+					</li>				</ul>
+				
+				
+	<div class="animated slide" data-appear-bottom-offset="100"><img alt="" width="450" height="300" src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0216-Bearbeitet-e1467837966467.jpg"/></div></section>
+</div>
+<!-- Begin Footer -->
+<footer id="footer" class="clearfix">
+	<div class="content dark container">
+
+		<!-- Contact Links -->
+		<ul class="contact animated hatch clearfix">
+						<li class="grid-2">
+				<p>
+				<i class="icon-phone"></i>
+				<br>
+				 <a href="tel:+491714965186">+49 171 49 65 186</a>			</li>
+									<li class="grid-2">
+				<a id="contact-open" href="#">
+					<p>
+						<i class="icon-mail"></i>
+						<br>
+					A@Sherrill.de					</p>
+				</a>
+			</li>
+									<li class="grid-2">
+				<a href="https://goo.gl/maps/kTRyaDpqupr" target="_blank">
+					<p>
+						<i class="icon-location"></i>
+						<br>
+					Frankfurter Allee 3, 10247 Berlin					</p>
+				</a>
+			</li>
+					</ul>
+	</div>
+
+	<!-- Contact Form -->
+	<div id="contact-form" class="dark clearfix">
+		<div class="container">
+			<div class="contact-heading grid-full">
+				<h3>Get in touch</h3>
+				<span class="border"></span>
+			</div>
+		</div>
+
+		<form action="#" method="post" class="contactForm peThemeContactForm container" id="contactform">
+			<fieldset>
+				<div class="form-field grid-half control-group">
+					<label for="name">Name</label>
+					<span><input type="text" class="required" name="name" id="name" /></span>
+				</div>
+				<div class="form-field grid-half  control-group">
+					<label for="email">Email</label>
+					<span><input type="email" class="required" name="email" id="email" /></span>
+				</div>
+				<div class="form-field grid-full control-group">
+					<label for="message">Message</label>
+					<span><textarea name="message" class="required" id="message"></textarea></span>
+				</div>
+			</fieldset>
+			<div class="form-click grid-full">
+				<span><button name="send" type="submit" dir="ltr" lang="en" class="submit" id="submit">Send</button></span>
+			</div>
+			<div id="contactFormSent" class="grid-full formSent alert"><strong>Yay!</strong> Message sent.</div>
+			<div id="contactFormError" class="grid-full formError alert"><strong>Error!</strong> Please validate your fields.</div>
+		</form>	
+	</div>
+
+	<div class="container">
+
+		<!-- Social Links -->
+		<ul class="social-links grid-full">
+					</ul>
+
+		<!-- Copyright Info -->
+		<div class="copyright grid-full"><h6>©2016 Sherrill. All Rights Reserved. <a href="http://www.appletrainer.sherrill.de/impressum-disclaimer/">Impressum</a></h6></div>
+
+	</div>
+</footer>
+<!-- End Footer -->
+							
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/comment-reply.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/boot.js?ver=1467832545'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/jquery.mobile.custom.min.js?ver=1467832544'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.lazyload.js?ver=1467832561'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/admin/jquery.theme.utils.js?ver=1467832527'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.mousewheel.js?ver=1467832547'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.browser.js?ver=1467832569'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.geom.js?ver=1467832571'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.preloader.js?ver=1467832572'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.transition.js?ver=1467832575'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.transform.js?ver=1467832566'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.youtube.js?ver=1467832576'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/froogaloop.js?ver=1467832546'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.vimeo.js?ver=1467832575'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.video.js?ver=1467832578'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.videoPlayer.js?ver=1467832579'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.ticker.js?ver=1467832573'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.backgroundSlider.js?ver=1467832549'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.js?ver=1467832555'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.simplethumb.js?ver=1467832565'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.render.gallery.js?ver=1467832555'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.render.image.js?ver=1467832556'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/smoothscroll.js?ver=1467832969'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/vegas.js?ver=1467832970'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.imagesloaded.js?ver=1467832961'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.mixitup.js?ver=1467832962'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.countto.js?ver=1467832958'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jqueryui.js?ver=1467832965'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/video.js?ver=1467832971'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/bigvideo.js?ver=1467832955'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/waypoints.js?ver=1467832973'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/parallax.js?ver=1467832967'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var peContactForm = {"url":"http%3A%2F%2Fsherrill.de%2Fwp-admin%2Fadmin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.contactForm.js?ver=1467832550'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.widgets.js?ver=1467832590'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.widgets.contact.js?ver=1467832585'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/navigation.js?ver=1467832966'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.easing.js?ver=1467832958'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.fittext.js?ver=1467832959'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.localscroll.js?ver=1467832962'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.scrollto.js?ver=1467832963'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.appear.js?ver=1467832956'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.waitforimages.js?ver=1467832964'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.bxslider.js?ver=1467832957'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.fitvids.js?ver=1467832960'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/shortcodes.js?ver=1467832968'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/main.js?ver=1467832966'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/custom.js?ver=1467832955'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/theme/js/pe/pixelentity.controller.js?ver=1467833013'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _visia = {"ajax-loading":"http:\/\/sherrill.de\/wp-content\/themes\/visia-3\/images\/ajax-loader.gif","home_url":"http:\/\/sherrill.de\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/init.js?ver=1467832547'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201709'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/wp-embed.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201709.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'113752739',post:'40',tz:'1',srv:'sherrill.de'} ]);
+	_stq.push([ 'clickTrackerInit', '113752739', '40' ]);
+</script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="desktop ie8 no-js" lang="de-DE"><![endif]-->
+<!--[if IE 9 ]><html class="desktop ie9 no-js" lang="de-DE"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="de-DE"><!--<![endif]-->
+   
+	<head>
+		<meta charset="UTF-8" />
+		<title>Sherrill | Anthony J. Sherrill Jr.</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="format-detection" content="telephone=no" />
+
+		<!--[if lt IE 9]>
+		<script type="text/javascript">/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark meter nav output progress section summary subline time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+		<![endif]-->
+		<script type="text/javascript">if(Function('/*@cc_on return document.documentMode===10@*/')()){document.documentElement.className+=' ie10';}</script>
+		<script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+		
+		<link rel="pingback" href="http://sherrill.de/xmlrpc.php" />
+
+		<!-- favicon -->
+		<link rel="shortcut icon" href="http://sherrill.de/wp-content/uploads/2016/07/s_fav_con.png" />
+
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700&amp;subset=latin,latin-ext">
+		<!-- wp_head() -->
+		<link rel='dns-prefetch' href='//sherrill.de' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sherrill &raquo; Feed" href="http://sherrill.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sherrill &raquo; Kommentar-Feed" href="http://sherrill.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/sherrill.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pe_theme_visia-loader-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/loader.css?ver=1467832407' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-reset-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/reset.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-grid-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/grid.css?ver=1467832406' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-icons-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/icons.css?ver=1467832406' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-style-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/style.css?ver=1467832409' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-shortcodes-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/shortcodes.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-color-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/ruby-red.css?ver=1467832408' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-animations-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/animations.css?ver=1467832402' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-ie-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/ie.css?ver=1467832407' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_flare_common-css'  href='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe.flare/themes/common.css?ver=1467832602' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_flare-css'  href='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe.flare/themes/default/skin.css?ver=1467832611' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_visia-custom-css'  href='http://sherrill.de/wp-content/themes/visia-3/css/custom.css?ver=1467832405' type='text/css' media='all' />
+<link rel='stylesheet' id='pe_theme_init-css'  href='http://sherrill.de/wp-content/themes/visia-3/style.css?ver=1467833006' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://sherrill.de/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/selectivizr-min.js?ver=1467832645'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/json2.min.js?ver=2015-05-03'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://sherrill.de/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sherrill.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sherrill.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel="canonical" href="http://sherrill.de/" />
+<link rel='shortlink' href='http://wp.me/P7HihB-E' />
+<link rel="alternate" type="application/json+oembed" href="http://sherrill.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsherrill.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://sherrill.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsherrill.de%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Sherrill" />
+<meta property="og:description" content="Anthony J. Sherrill Jr." />
+<meta property="og:url" content="http://sherrill.de/" />
+<meta property="og:site_name" content="Sherrill" />
+<meta property="og:image" content="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=512%2C512" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="de_DE" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="http://i1.wp.com/sherrill.de/wp-content/uploads/2016/07/cropped-S_Button.png?fit=270%2C270" />
+<style type="text/css">body,.form-field span input,.form-field span textarea,.form-click input{font-family:'Open Sans';}</style><style type="text/css" id="pe-theme-custom-colors">a{color:#4169e1;}.feature:hover{color:#4169e1;}a:visited{color:#4169e1;}.desktop.navigation .nav-content a:hover{color:#4169e1;}.desktop.navigation .nav-content a.active{color:#4169e1;}.post-title a:hover{color:#4169e1;}.cat-item a:hover{color:#4169e1;}.widget-archive a:hover{color:#4169e1;}.filter.active, .filter:hover{color:#4169e1;}.recentcomments a:hover{color:#4169e1;}.widget-recent-entries a:hover{color:#4169e1;}.comment-meta a:hover{color:#4169e1;}.required{color:#4169e1;}.feature:hover .feature-icon{color:#4169e1;}.sticky .post-title a{color:#4169e1;}.gallery-next .bx-next:hover{background-color:#4169e1;}.gallery-prev .bx-prev:hover{background-color:#4169e1;}.parallax.colored{background-color:#4169e1;}.list-dot{background-color:#4169e1;}.projectlist a:hover .projectinfo{background-color:#4169e1;}a.button{border-color:#4169e1;}.tagcloud a{border-color:#4169e1;}.tabs ul li.active a{border-top-color:#4169e1;}a:hover{color:#9aace0;}.sticky .post-title a:hover{color:#9aace0;}a.button:hover{border-color:#9aace0;}.tagcloud a:hover{border-color:#9aace0;}</style>	</head>
+
+	<body class="home page page-id-40 page-parent page-template page-template-page_home page-template-page_home-php">
+
+		
+<!-- Begin Navigation -->
+<nav class="clearfix">
+
+	<!-- Logo -->
+    <div class="logo">
+        <a id="top" href="http://sherrill.de" title="Sherrill"><img src="http://sherrill.de/wp-content/uploads/2016/07/S_Banner.png" alt=""></a>
+            </div>
+
+	
+	
+
+	<!-- Mobile Nav Button -->
+	<button type="button" class="nav-button" data-toggle="collapse" data-target=".nav-content">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <!-- Navigation Links -->
+    <div class="navigation">
+		<div class="nav-content">
+			<ul class="nav"><li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://sherrill.de/#ich-bin-die-summe-meines-tuns">Über Sherrill</a></li>
+</ul>		</div>
+	</div>
+
+</nav>
+<!-- End Navigation -->
+		
+					
+
+
+<div class="hidden_overlay" data-src="http://sherrill.de/wp-content/themes/visia-3/images/slider/overlays/03.png"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0183-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0160_1.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0180-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0146_1-Bearbeitet.jpg"></div>
+<div class="hiddenslide" data-src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0133_1.jpg"></div>
+
+<section id="home" class="home-first-section hero clearfix">
+
+	<!-- Content -->
+	<div class="dark content container">
+
+		<!-- Headings -->
+		<div class="ticker">
+
+									<h1>Analytisch.</h1>
+						<h1>Problemlöser.</h1>
+						<h1>Wettbewerbsorientiert.</h1>
+						<h1>Fair.</h1>
+							 	</div>
+
+
+
+	 	<!-- Buttons -->
+	 			<ul class="call-to-action">
+						<li>
+								<a class="button" href="#ich-bin-die-summe-meines-tuns">
+					Learn more				</a>
+			</li>
+								</ul>
+		
+		<!-- Slider Controls -->
+		<ul class="slider-controls">
+			<li><a id="vegas-next" href="#">Next</a></li>
+			<li><a id="vegas-prev" href="#">Prev</a></li>
+		</ul>
+
+	</div>
+
+</section>
+<!-- End Hero -->
+
+		
+<div class="slider-cover"><!-- Begin Team -->
+<section class="content container" id="ich-bin-die-summe-meines-tuns">
+
+		<div class="title grid-full">
+			<h2>Ich bin die Summe meines Tuns</h2>
+			<span class="border"></span>
+
+			<div class="sub-heading">			
+							</div>
+		</div>
+		<div class="clearfix"></div>
+
+		
+		
+						<!-- Icons -->
+				<ul class="team-list clearfix">
+				<li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Apple Trainer, für Privatpersonen</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Ich berate und betreue Sie rund um alle Apple Produkte. Zum iMac, zum MacBook, zum iPad oder zum iPhone. Sei es die erste Inbetriebnahme, ein Umstieg von z.B. Windows zu Mac OS oder ein Neukauf. Ich stehe Ihnen kompetent zur Seite und zwar dort wo Sie mich benötigen: Sei es zu Hause, im Café oder in Ihrem Unternehmen. <a href="http://www.appletrainer.sherrill.de">Hier klicken für mehr Infos.</a></p>
+
+						
+					</li><li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Apple Consultant, Selbständige &#038; Unternehmen</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Planen Sie Apple Produkte in Ihrem Unternehmen zu nutzen, oder nutzen Sie vielleicht bereits schon welche? Hätten Sie gerne iMac, MacBooks, iPhone oder iPad perfekt in Ihrem Unternehmen und in Ihrem Tagesgeschäft integriert? Würden Sie gerne die Zuverlässigkeit und das schicke Design von Apple in Ihrem Unternehmen haben, sind sich jedoch nicht sicher was den Umstieg betrifft? <a href="http://www.appletrainer.sherrill.de">Klicken Sie hier für weitere Informationen</a>.</p>
+
+						
+					</li><li class="team-member grid-2">			
+
+						<div class="name">
+							<h4>Management, für Künstler</h4>
+							<h6><em>Founder/Partner</em></h6>
+						</div>
+						<p>Die Managementtätigkeit bezieht sich derzeit ausschließlich auf das managen der Künstlerin &#8222;Meral Al-Mer&#8220;. Für weitere Informationen siehe: <a href="http://www.MeralAlMer.com">www.MeralAlMer.com</a></p>
+
+						
+					</li>				</ul>
+				
+				
+	<div class="animated slide" data-appear-bottom-offset="100"><img alt="" width="450" height="300" src="http://sherrill.de/wp-content/uploads/2016/07/IMG_0216-Bearbeitet-e1467837966467.jpg"/></div></section>
+</div>
+<!-- Begin Footer -->
+<footer id="footer" class="clearfix">
+	<div class="content dark container">
+
+		<!-- Contact Links -->
+		<ul class="contact animated hatch clearfix">
+						<li class="grid-2">
+				<p>
+				<i class="icon-phone"></i>
+				<br>
+				 <a href="tel:+491714965186">+49 171 49 65 186</a>			</li>
+									<li class="grid-2">
+				<a id="contact-open" href="#">
+					<p>
+						<i class="icon-mail"></i>
+						<br>
+					A@Sherrill.de					</p>
+				</a>
+			</li>
+									<li class="grid-2">
+				<a href="https://goo.gl/maps/kTRyaDpqupr" target="_blank">
+					<p>
+						<i class="icon-location"></i>
+						<br>
+					Frankfurter Allee 3, 10247 Berlin					</p>
+				</a>
+			</li>
+					</ul>
+	</div>
+
+	<!-- Contact Form -->
+	<div id="contact-form" class="dark clearfix">
+		<div class="container">
+			<div class="contact-heading grid-full">
+				<h3>Get in touch</h3>
+				<span class="border"></span>
+			</div>
+		</div>
+
+		<form action="#" method="post" class="contactForm peThemeContactForm container" id="contactform">
+			<fieldset>
+				<div class="form-field grid-half control-group">
+					<label for="name">Name</label>
+					<span><input type="text" class="required" name="name" id="name" /></span>
+				</div>
+				<div class="form-field grid-half  control-group">
+					<label for="email">Email</label>
+					<span><input type="email" class="required" name="email" id="email" /></span>
+				</div>
+				<div class="form-field grid-full control-group">
+					<label for="message">Message</label>
+					<span><textarea name="message" class="required" id="message"></textarea></span>
+				</div>
+			</fieldset>
+			<div class="form-click grid-full">
+				<span><button name="send" type="submit" dir="ltr" lang="en" class="submit" id="submit">Send</button></span>
+			</div>
+			<div id="contactFormSent" class="grid-full formSent alert"><strong>Yay!</strong> Message sent.</div>
+			<div id="contactFormError" class="grid-full formError alert"><strong>Error!</strong> Please validate your fields.</div>
+		</form>	
+	</div>
+
+	<div class="container">
+
+		<!-- Social Links -->
+		<ul class="social-links grid-full">
+					</ul>
+
+		<!-- Copyright Info -->
+		<div class="copyright grid-full"><h6>©2016 Sherrill. All Rights Reserved. <a href="http://www.appletrainer.sherrill.de/impressum-disclaimer/">Impressum</a></h6></div>
+
+	</div>
+</footer>
+<!-- End Footer -->
+							
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/comment-reply.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/boot.js?ver=1467832545'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/jquery.mobile.custom.min.js?ver=1467832544'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.lazyload.js?ver=1467832561'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/admin/jquery.theme.utils.js?ver=1467832527'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.mousewheel.js?ver=1467832547'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.browser.js?ver=1467832569'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.geom.js?ver=1467832571'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.preloader.js?ver=1467832572'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.transition.js?ver=1467832575'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.transform.js?ver=1467832566'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.youtube.js?ver=1467832576'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/froogaloop.js?ver=1467832546'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.vimeo.js?ver=1467832575'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.video.js?ver=1467832578'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.videoPlayer.js?ver=1467832579'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.utils.ticker.js?ver=1467832573'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.backgroundSlider.js?ver=1467832549'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.js?ver=1467832555'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.simplethumb.js?ver=1467832565'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.render.gallery.js?ver=1467832555'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.flare.lightbox.render.image.js?ver=1467832556'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/smoothscroll.js?ver=1467832969'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/vegas.js?ver=1467832970'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.imagesloaded.js?ver=1467832961'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.mixitup.js?ver=1467832962'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.countto.js?ver=1467832958'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jqueryui.js?ver=1467832965'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/video.js?ver=1467832971'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/bigvideo.js?ver=1467832955'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/waypoints.js?ver=1467832973'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/parallax.js?ver=1467832967'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var peContactForm = {"url":"http%3A%2F%2Fsherrill.de%2Fwp-admin%2Fadmin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.contactForm.js?ver=1467832550'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.widgets.js?ver=1467832590'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/jquery.pixelentity.widgets.contact.js?ver=1467832585'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/navigation.js?ver=1467832966'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.easing.js?ver=1467832958'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.fittext.js?ver=1467832959'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.localscroll.js?ver=1467832962'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.scrollto.js?ver=1467832963'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.appear.js?ver=1467832956'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.waitforimages.js?ver=1467832964'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.bxslider.js?ver=1467832957'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/jquery.fitvids.js?ver=1467832960'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/shortcodes.js?ver=1467832968'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/main.js?ver=1467832966'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/js/custom.js?ver=1467832955'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/theme/js/pe/pixelentity.controller.js?ver=1467833013'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _visia = {"ajax-loading":"http:\/\/sherrill.de\/wp-content\/themes\/visia-3\/images\/ajax-loader.gif","home_url":"http:\/\/sherrill.de\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/themes/visia-3/framework/js/pe/init.js?ver=1467832547'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201709'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sherrill.de/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://sherrill.de/wp-includes/js/wp-embed.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201709.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'113752739',post:'40',tz:'1',srv:'sherrill.de'} ]);
+	_stq.push([ 'clickTrackerInit', '113752739', '40' ]);
+</script>
+
+</body>
+</html>
