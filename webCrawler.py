@@ -17,9 +17,7 @@ from urllib.parse import urlparse
 
 o = urlparse("https://de.wikipedia.org/wiki/Liste_von_Nestlé-Marken")
 print(o.geturl())
-site = request.urlopen(o.geturl())
-html = site.read().decode()
-print(html)
+
 """url = "https:" + parse.quote("//de.wikipedia.org/wiki/Liste_von_Nestlé-Marken")
 
 site = request.urlopen(url)
